@@ -1,0 +1,6 @@
+Newest at the top
+
+Date Format:
+MM DD, YYYY
+
+Mar 24, 2016 Initial setup of the lab
