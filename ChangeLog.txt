@@ -3,4 +3,7 @@ Newest at the top
 Date Format:
 MM DD, YYYY
 
+Mar 24, 2016 Display tabs based on privilege
+Mar 24, 2016 Privilege Verification 
+Mar 24, 2016 Login Setup
 Mar 24, 2016 Initial setup of the lab
